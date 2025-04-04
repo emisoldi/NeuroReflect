@@ -1,0 +1,1096 @@
+[
+  {
+    "circuit": "Attachment Security & Relational Bonding",
+    "functional_description": "This circuit involves the hypothalamus, amygdala, ventral striatum, insula, and oxytocin pathways. It regulates proximity-seeking behavior, affective trust, emotional safety, and the formation of secure bonds through early and ongoing social experiences.",
+    "traits_influenced": "Trust, intimacy, emotional security, relational openness, need for connection",
+    "symptoms": [
+      "Fear of abandonment",
+      "clinginess or avoidance",
+      "difficulty forming or maintaining close relationships",
+      "intense separation distress"
+    ],
+    "example_user_statements": [
+      "\u201cI get too attached or push people away.\u201d",
+      "\u201cI constantly worry about people leaving me.\u201d",
+      "\u201cI find it hard to feel truly close to anyone.\u201d"
+    ],
+    "social_environmental_causes": "Inconsistent caregiving, early relational trauma, neglect, abandonment, emotional unavailability in key relationships",
+    "plasticity_mechanisms": "Attachment-related plasticity in limbic-prefrontal systems modulated by co-regulation and emotional attunement. Epigenetic changes in oxytocin receptor gene expression (OXTR) and stress systems like HPA axis can be recalibrated through secure relational experiences.",
+    "recommended_interventions": "Attachment-informed therapy, emotionally attuned relationships, secure base exploration, affective touch, consistent co-regulation practices",
+    "metaphoric_summary": "A tether frayed by fear\u2014rewoven with presence, safety, and trust.",
+    "key_neurotransmitters": "Oxytocin, vasopressin, cortisol, dopamine",
+    "cognitive_functions": "Relational memory, affect regulation, proximity assessment, social threat appraisal",
+    "common_misdiagnoses": "Borderline Personality Disorder, Attachment Disorder, Relationship Anxiety"
+  },
+  {
+    "circuit": "Attentional Filtering & Salience Network",
+    "functional_description": "Composed of the anterior insula, dorsal anterior cingulate cortex (dACC), and thalamus, this network monitors internal and external stimuli to determine what is relevant. It switches attentional focus between cognitive, emotional, and environmental cues.",
+    "traits_influenced": "Focus, relevance detection, distractibility, priority setting, situational awareness",
+    "symptoms": [
+      "Easily distracted",
+      "sensory overload",
+      "difficulty prioritizing",
+      "hyperfocus on irrelevant stimuli"
+    ],
+    "example_user_statements": [
+      "\u201cI\u2019m distracted by everything.\u201d",
+      "\u201cI can\u2019t tell what\u2019s important.\u201d",
+      "\u201cMy attention jumps around without warning.\u201d"
+    ],
+    "social_environmental_causes": "Chaotic or overstimulating environments, trauma-induced hypervigilance, underdeveloped attentional training",
+    "plasticity_mechanisms": "Experience-driven tuning of thalamo-cortical circuits and salience encoding; supported by attentional retraining, mindfulness, and structured engagement. Epigenetic modulation of attention-regulating genes (e.g., DRD4, SNAP25).",
+    "recommended_interventions": "Mindfulness-based attention training, low-stimulation task environments, structured focus routines, multi-sensory grounding",
+    "metaphoric_summary": "A spotlight that flickers across everything\u2014trained to shine where it matters most.",
+    "key_neurotransmitters": "Dopamine, norepinephrine, acetylcholine",
+    "cognitive_functions": "Salience detection, attentional shifting, sensory filtering, cognitive switching",
+    "common_misdiagnoses": "ADHD, Sensory Processing Disorder, Anxiety Disorders"
+  },
+  {
+    "circuit": "Auditory Patterning & Music Processing",
+    "functional_description": "This circuit includes the auditory cortex, superior temporal gyrus, nucleus accumbens, amygdala, and cerebellum. It decodes rhythm, pitch, and tone, and links auditory patterns to emotional and motivational states through reward and memory systems.",
+    "traits_influenced": "Auditory memory, emotional resonance, rhythm sensitivity, timing, creative expression through sound",
+    "symptoms": [
+      "Poor musicality",
+      "difficulty processing tone or rhythm",
+      "auditory overstimulation",
+      "flat emotional response to music"
+    ],
+    "example_user_statements": [
+      "\u201cMusic doesn\u2019t move me like it used to.\u201d",
+      "\u201cI can\u2019t keep a beat or sing on key.\u201d",
+      "\u201cCertain sounds make me overwhelmed or dissociate.\u201d"
+    ],
+    "social_environmental_causes": "Restricted access to music, sensory trauma, auditory overstimulation, neglect of musical play or affective expression",
+    "plasticity_mechanisms": "Neuroplastic enhancement of auditory-motor-emotional loops via musical training, rhythmic exposure, and expressive engagement. Epigenetic influence on timing and sound-response integration genes (e.g., FOXP2, BDNF).",
+    "recommended_interventions": "Music therapy, rhythm-based movement, listening to emotionally resonant music, drumming or chanting, vocal improvisation",
+    "metaphoric_summary": "A soundscape of emotion and pattern\u2014reawakened by rhythm, resonance, and expression.",
+    "key_neurotransmitters": "Dopamine, oxytocin, endorphins",
+    "cognitive_functions": "Temporal sequencing, emotional modulation, auditory memory, pattern detection",
+    "common_misdiagnoses": "Auditory Processing Disorder, Autism Spectrum (music-related sensitivity), Anhedonia"
+  },
+  {
+    "circuit": "Autonomic Regulation (Sympathetic & Parasympathetic Balance)",
+    "functional_description": "This circuit coordinates autonomic nervous system activity via brainstem nuclei, hypothalamus, vagus nerve, and insular cortex. It governs physiological arousal, rest-recovery cycles, and stress resilience.",
+    "traits_influenced": "Energy balance, heart rate variability, stress tolerance, emotional calm, body rhythm stability",
+    "symptoms": [
+      "Chronic tension",
+      "digestive issues",
+      "fatigue",
+      "anxiety",
+      "panic",
+      "shallow breathing",
+      "sleep disruption"
+    ],
+    "example_user_statements": [
+      "\u201cI\u2019m always tense, even when I try to relax.\u201d",
+      "\u201cMy body doesn\u2019t know how to calm down.\u201d",
+      "\u201cI feel wired and tired all the time.\u201d"
+    ],
+    "social_environmental_causes": "Unpredictable environments, early trauma, lack of co-regulation, overactivation of sympathetic system due to chronic threat",
+    "plasticity_mechanisms": "Plasticity of vagal tone and parasympathetic recovery; epigenetic regulation of stress axis genes (e.g., CRH, AVP); vagus nerve stimulation and slow-breath training restore autonomic flexibility.",
+    "recommended_interventions": "Diaphragmatic breathing, cold exposure, polyvagal-informed therapies, safe relational co-regulation, paced yoga or tai chi",
+    "metaphoric_summary": "Like a nervous system thermostat stuck on high or off\u2014rebalance is possible with breath, rhythm, and safety.",
+    "key_neurotransmitters": "Acetylcholine, norepinephrine, cortisol, CRH",
+    "cognitive_functions": "Arousal regulation, interoceptive monitoring, emotion-body state integration",
+    "common_misdiagnoses": "Generalized Anxiety Disorder, Panic Disorder, Chronic Fatigue Syndrome, IBS"
+  },
+  {
+    "circuit": "Cognitive Function",
+    "functional_description": "Centered in the dorsolateral prefrontal cortex (DLPFC), parietal cortex, and anterior cingulate cortex (ACC), this circuit supports executive control, working memory, and flexible cognition under variable task demands.",
+    "traits_influenced": "Cognitive flexibility, problem-solving, working memory, abstract reasoning, mental organization",
+    "symptoms": [
+      "Disorganization",
+      "inflexibility",
+      "poor planning",
+      "impaired concentration",
+      "difficulty with complex tasks"
+    ],
+    "example_user_statements": [
+      "\u201cI struggle to stay focused.\u201d",
+      "\u201cI lose track of what I\u2019m doing.\u201d",
+      "\u201cI can\u2019t seem to organize my thoughts or tasks.\u201d"
+    ],
+    "social_environmental_causes": "Cognitive under-stimulation, chronic stress, punishment-based learning environments, overstimulation without integration",
+    "plasticity_mechanisms": "Experience-driven synaptic pruning and network reorganization in the prefrontal-parietal loop; neuroplasticity enhanced by cognitive load, novel problem-solving, and supportive learning conditions. Epigenetic regulation affects executive function genes (e.g., BDNF, COMT).",
+    "recommended_interventions": "Cognitive training, structured problem-solving activities, reduced multitasking, mindfulness for attentional control, environments that support exploratory learning",
+    "metaphoric_summary": "A command center clouded by noise or disuse\u2014reactivated by mental exercise, clarity, and purpose-driven thought.",
+    "key_neurotransmitters": "Dopamine, norepinephrine, glutamate",
+    "cognitive_functions": "Executive function, working memory, sustained attention, mental flexibility",
+    "common_misdiagnoses": "ADHD, Executive Dysfunction, Learning Disorders"
+  },
+  {
+    "circuit": "Creative Imagination & Symbolic Thinking",
+    "functional_description": "Involves the default mode network, lateral prefrontal cortex, parietal cortex, and hippocampal regions. Facilitates abstract thinking, future simulation, metaphor generation, and integration of meaning across diverse experiences.",
+    "traits_influenced": "Creativity, abstract reasoning, idea generation, meaning-making, adaptive flexibility",
+    "symptoms": [
+      "Rigid thinking",
+      "difficulty generating ideas",
+      "loss of imagination",
+      "symbolic confusion",
+      "over-literal interpretation"
+    ],
+    "example_user_statements": [
+      "\u201cI\u2019ve lost my creativity.\u201d",
+      "\u201cI struggle to think outside the box.\u201d",
+      "\u201cI only see things in black and white.\u201d"
+    ],
+    "social_environmental_causes": "Excessive rote learning, suppression of divergent expression, trauma-related thought narrowing, lack of creative modeling",
+    "plasticity_mechanisms": "Hebbian strengthening across associative networks via narrative, creative problem-solving, and free association. Epigenetic modulation of neurotrophic factors (e.g., BDNF) related to ideational fluency.",
+    "recommended_interventions": "Metaphor exploration, creative writing/art, symbolic play, divergent thinking tasks, associative thinking exercises",
+    "metaphoric_summary": "A painter\u2019s palette left dry\u2014revived through color, metaphor, and inner freedom.",
+    "key_neurotransmitters": "Dopamine, serotonin, BDNF",
+    "cognitive_functions": "Abstract reasoning, symbolic mapping, imagination, semantic integration",
+    "common_misdiagnoses": "Schizoid Traits, Autism Spectrum, Thought Disorder (when misunderstood)"
+  },
+  {
+    "circuit": "Curiosity Drive & Exploratory Motivation",
+    "functional_description": "This circuit includes the ventral tegmental area (VTA), hippocampus, prefrontal cortex, and nucleus accumbens. It governs intrinsic motivation to seek novelty, explore unknowns, and acquire new knowledge or experiences through dopamine-based reward prediction errors.",
+    "traits_influenced": "Curiosity, learning drive, exploratory behavior, openness to novelty, information seeking",
+    "symptoms": [
+      "Mental stagnation",
+      "avoidance of the unknown",
+      "apathy",
+      "fear of change",
+      "boredom or distractibility"
+    ],
+    "example_user_statements": [
+      "\u201cI used to be curious, but now I feel stuck.\u201d",
+      "\u201cI\u2019m afraid to try new things.\u201d",
+      "\u201cI get bored easily but struggle to start anything.\u201d"
+    ],
+    "social_environmental_causes": "Rigid environments, fear-based learning, over-structuring, trauma-related suppression of novelty drive, neglect of spontaneous exploration",
+    "plasticity_mechanisms": "Dopamine receptor sensitivity and exploratory prediction tuning in reward-memory networks strengthened through safe novelty exposure, curiosity reinforcement, and positive learning feedback. Epigenetic markers modulate learning and exploratory gene expression (e.g., DRD2, BDNF).",
+    "recommended_interventions": "Playful problem-solving, guided discovery tasks, novel environment immersion, low-pressure learning, curiosity journaling",
+    "metaphoric_summary": "A spark dimmed by control\u2014rekindled when wonder and choice return.",
+    "key_neurotransmitters": "Dopamine, acetylcholine, norepinephrine",
+    "cognitive_functions": "Novelty prediction, reward anticipation, associative learning, uncertainty tolerance",
+    "common_misdiagnoses": "ADHD (Inattentive), Depression (Apathy subtype), Learning Disorders"
+  },
+  {
+    "circuit": "Decision-Making & Flexibility",
+    "functional_description": "Involves the dorsolateral prefrontal cortex (DLPFC), anterior cingulate cortex (ACC), and parietal cortex, supporting cognitive control, error monitoring, and behavioral flexibility. Enables adaptive choice-making under changing conditions.",
+    "traits_influenced": "Self-control, adaptability, cognitive fluidity, rational thinking, behavioral inhibition",
+    "symptoms": [
+      "Impulsivity",
+      "indecision",
+      "rigidity",
+      "black-and-white thinking",
+      "perseveration"
+    ],
+    "example_user_statements": [
+      "\u201cI freeze when I have to make choices.\u201d",
+      "\u201cI always second-guess myself.\u201d",
+      "\u201cI get stuck doing things one way, even when it's not working.\u201d"
+    ],
+    "social_environmental_causes": "Chaotic or punitive environments, lack of modeled flexibility, rigid rule systems, excessive pressure to 'perform right'",
+    "plasticity_mechanisms": "Prefrontal-striatal plasticity influenced by dynamic task learning and error processing; modulation of genes related to inhibitory control and attentional shifting (e.g., COMT). Improvement supported by environments encouraging experimentation and safe failure.",
+    "recommended_interventions": "Decision practice in low-stakes environments, mindfulness, reflective journaling on alternatives, cognitive reappraisal training, flexible role-play scenarios",
+    "metaphoric_summary": "A compass stuck in one direction\u2014rebalanced through exploration, error, and permission to choose again.",
+    "key_neurotransmitters": "Dopamine, glutamate, norepinephrine",
+    "cognitive_functions": "Inhibitory control, cognitive flexibility, outcome evaluation, error monitoring",
+    "common_misdiagnoses": "Obsessive-Compulsive Disorder (OCD), ADHD, Autism Spectrum Disorder"
+  },
+  {
+    "circuit": "Default Mode Network (Self-Referential Thought & Internal Narrative)",
+    "functional_description": "Anchored in the medial prefrontal cortex, posterior cingulate cortex, precuneus, and angular gyrus, this network governs internally focused cognition including mental time travel, autobiographical reflection, and self-narrative construction.",
+    "traits_influenced": "Introspection, self-concept, imagination, future planning, moral reasoning",
+    "symptoms": [
+      "Excessive rumination",
+      "identity diffusion",
+      "depressive self-focus",
+      "disconnection from present moment"
+    ],
+    "example_user_statements": [
+      "\u201cI overthink everything.\u201d",
+      "\u201cI can\u2019t stop reliving the past or worrying about the future.\u201d",
+      "\u201cI don\u2019t know how to describe who I am.\u201d"
+    ],
+    "social_environmental_causes": "Unstructured or invalidated self-expression, narrative suppression, developmental disruption of identity formation",
+    "plasticity_mechanisms": "DMN activity modulated by reflective practices, storytelling, mindfulness, and social validation. Neuroplastic shifts via narrative integration and memory reconsolidation. Epigenetic markers related to memory, stress, and identity maintenance.",
+    "recommended_interventions": "Narrative journaling, mindfulness of thought patterns, guided self-reflection, constructive autobiographical memory work",
+    "metaphoric_summary": "A wandering mind lost in thought\u2014anchored through the art of telling one\u2019s true story.",
+    "key_neurotransmitters": "Serotonin, dopamine, glutamate",
+    "cognitive_functions": "Mental time travel, self-evaluation, narrative coherence, abstract reflection",
+    "common_misdiagnoses": "Major Depressive Disorder, Depersonalization, Maladaptive Daydreaming"
+  },
+  {
+    "circuit": "Embodiment & Body Image Representation",
+    "functional_description": "This circuit encompasses the somatosensory cortex, insula, posterior parietal cortex, and visual association areas. It constructs and updates internal representations of one\u2019s physical body and perceived form in space.",
+    "traits_influenced": "Body awareness, posture, coordination, physical confidence, visual-spatial self-perception",
+    "symptoms": [
+      "Distorted body image",
+      "disembodiment",
+      "discomfort in one\u2019s body",
+      "detachment from physicality"
+    ],
+    "example_user_statements": [
+      "\u201cI feel disconnected from my body.\u201d",
+      "\u201cI don\u2019t recognize myself in the mirror.\u201d",
+      "\u201cI hate how I look or move.\u201d"
+    ],
+    "social_environmental_causes": "Body shaming, physical trauma, aesthetic-based judgment, neglect of physical development or self-expression",
+    "plasticity_mechanisms": "Sensorimotor cortical remapping and insular recalibration via physical activity, touch, and reflective movement. Visual-perceptual integration strengthened by self-directed motor engagement and embodiment practices.",
+    "recommended_interventions": "Mirror work, expressive movement (e.g., dance), body-based therapy, somatic self-compassion practices, postural awareness training",
+    "metaphoric_summary": "A living map of the self distorted by shame\u2014realigned through motion, reflection, and reconnection.",
+    "key_neurotransmitters": "Serotonin, dopamine, oxytocin",
+    "cognitive_functions": "Body schema representation, spatial awareness, self-perception integration",
+    "common_misdiagnoses": "Body Dysmorphic Disorder (BDD), Eating Disorders, Somatization Disorders"
+  },
+  {
+    "circuit": "Emotional Memory",
+    "functional_description": "This circuit encodes and retrieves emotionally salient experiences through interactions between the amygdala, hippocampus, and prefrontal cortex. It supports fear learning, emotional tagging of memories, and contextual memory integration.",
+    "traits_influenced": "Emotional recall, contextual awareness, learning from experience, emotional pattern recognition",
+    "symptoms": [
+      "Intrusive memories",
+      "emotional flashbacks",
+      "fear generalization",
+      "rumination",
+      "difficulty distinguishing past from present"
+    ],
+    "example_user_statements": [
+      "\u201cMemories from the past keep replaying.\u201d",
+      "\u201cI can\u2019t stop thinking about painful things that happened.\u201d",
+      "\u201cThe emotions from past events still feel fresh.\u201d"
+    ],
+    "social_environmental_causes": "Trauma, repeated emotional invalidation, high-stress exposure without resolution, lack of safe contextual processing",
+    "plasticity_mechanisms": "Activity-dependent remodeling of amygdala-hippocampal connections; stress-induced suppression of hippocampal neurogenesis; fear extinction and memory reconsolidation supported by safety and emotional reprocessing. Epigenetic regulation of memory consolidation (e.g., CREB, BDNF).",
+    "recommended_interventions": "Trauma-informed therapy, memory reconsolidation practices, emotional journaling, expressive arts, narrative reframing in safe settings",
+    "metaphoric_summary": "An emotional archive where past chapters spill into the present\u2014reorganized through truth-telling, safety, and story repair.",
+    "key_neurotransmitters": "Cortisol, norepinephrine, glutamate",
+    "cognitive_functions": "Emotional tagging of memory, fear conditioning, contextual memory binding",
+    "common_misdiagnoses": "PTSD, Complex PTSD, Generalized Anxiety Disorder"
+  },
+  {
+    "circuit": "Emotional Regulation",
+    "functional_description": "Bidirectional communication between the amygdala and prefrontal cortex, modulated by the hypothalamus and insula, governing affective salience evaluation and top-down regulation of emotional arousal.",
+    "traits_influenced": "Emotional reactivity, affective stability, stress sensitivity, impulse modulation, resilience under duress",
+    "symptoms": [
+      "Hypervigilance",
+      "mood lability",
+      "prolonged affective states",
+      "heightened startle responses",
+      "emotional blunting"
+    ],
+    "example_user_statements": [
+      "\u201cI get overwhelmed easily.\u201d",
+      "\u201cMy emotions spiral out of control.\u201d",
+      "\u201cI feel numb or shut down emotionally.\u201d"
+    ],
+    "social_environmental_causes": "Emotional neglect, chronic social threat, invalidation, relational instability",
+    "plasticity_mechanisms": "HPA axis dysregulation, downregulation of glucocorticoid receptors, synaptic remodeling in medial PFC/amygdala, epigenetic changes to NR3C1 and FKBP5; restoration through safety, validation, and mindfulness.",
+    "recommended_interventions": "Mindfulness training, somatosensory regulation, therapy for emotional expression, stable relationships, circadian rhythm stabilization",
+    "metaphoric_summary": "An emotional thermostat set too high from early experience\u2014recalibrated over time through safety and care.",
+    "key_neurotransmitters": "Cortisol, serotonin, GABA, norepinephrine",
+    "cognitive_functions": "Emotion regulation, impulse control, stress appraisal, affect labeling",
+    "common_misdiagnoses": "Borderline Personality Disorder (BPD), Generalized Anxiety Disorder (GAD), Bipolar Disorder"
+  },
+  {
+    "circuit": "Empathic Resonance & Emotional Contagion",
+    "functional_description": "Relies on mirror neuron systems in the premotor cortex, inferior parietal lobule, anterior insula, and anterior cingulate cortex. This circuit enables spontaneous affective resonance and internal simulation of others\u2019 emotional states.",
+    "traits_influenced": "Emotional attunement, sensitivity to others, compassion, interpersonal accuracy, nonverbal decoding",
+    "symptoms": [
+      "Emotional flooding",
+      "poor boundaries",
+      "numbness to others\u2019 states",
+      "misreading social cues",
+      "empathic overextension"
+    ],
+    "example_user_statements": [
+      "\u201cI feel what others feel, even when I don\u2019t want to.\u201d",
+      "\u201cI shut down around strong emotions.\u201d",
+      "\u201cPeople say I misread them.\u201d"
+    ],
+    "social_environmental_causes": "Emotional enmeshment, neglect of emotional modeling, chronic invalidation, trauma-induced empathy suppression",
+    "plasticity_mechanisms": "Mirror neuron activation reinforced through repeated safe attunement and emotional presence; insula sensitivity recalibrated by emotionally rich interaction. Epigenetic shifts in affective bonding hormones (e.g., oxytocin) and stress regulation.",
+    "recommended_interventions": "Empathic listening exercises, emotional boundaries practice, somatic mirroring awareness, emotion-based role play, intentional co-regulation experiences",
+    "metaphoric_summary": "An emotional tuning fork that needs to be struck just right\u2014attuned by trust, care, and discernment.",
+    "key_neurotransmitters": "Oxytocin, serotonin, dopamine",
+    "cognitive_functions": "Affective mirroring, perspective-taking, emotional simulation, interpersonal decoding",
+    "common_misdiagnoses": "Autism Spectrum, Highly Sensitive Person (HSP), Codependent Personality Traits"
+  },
+  {
+    "circuit": "Executive Function & Task Initiation",
+    "functional_description": "Centered in the dorsolateral prefrontal cortex (DLPFC), anterior cingulate cortex (ACC), and basal ganglia, this circuit enables planning, prioritization, sustained attention, and initiation of purposeful action.",
+    "traits_influenced": "Initiative, organization, task follow-through, mental energy, attention control",
+    "symptoms": [
+      "Procrastination",
+      "difficulty starting tasks",
+      "mental fatigue",
+      "inconsistent focus",
+      "poor prioritization"
+    ],
+    "example_user_statements": [
+      "\u201cI know what I need to do, but I can\u2019t get started.\u201d",
+      "\u201cI get overwhelmed and shut down before I begin.\u201d",
+      "\u201cI work in bursts but can\u2019t stay consistent.\u201d"
+    ],
+    "social_environmental_causes": "Excessive pressure, chaotic or unstructured environments, learned helplessness, chronic stress inhibiting goal-directed effort",
+    "plasticity_mechanisms": "Activity-dependent strengthening of prefrontal-striatal pathways; enhanced via structured goal-setting, behavioral activation, and reward expectancy. Dopaminergic tone influences initiation thresholds; epigenetic modulation of effort-reward sensitivity.",
+    "recommended_interventions": "Micro-tasking, clear reward cues, visual reminders, behavioral scheduling, compassionate productivity tracking",
+    "metaphoric_summary": "An engine that wants to move but needs a spark\u2014kickstarted by clarity, momentum, and reward alignment.",
+    "key_neurotransmitters": "Dopamine, norepinephrine, acetylcholine",
+    "cognitive_functions": "Initiation, sustained attention, goal sequencing, inhibition, working memory",
+    "common_misdiagnoses": "ADHD (Inattentive Type), Depression, Executive Dysfunction"
+  },
+  {
+    "circuit": "Executive Self-Monitoring & Meta-Awareness",
+    "functional_description": "This circuit includes the dorsolateral prefrontal cortex (DLPFC), anterior cingulate cortex (ACC), and medial prefrontal cortex (mPFC). It governs awareness of thoughts, behaviors, errors, and internal states, enabling adaptive behavior and self-guided correction.",
+    "traits_influenced": "Self-reflection, adaptive control, goal monitoring, insight, internal feedback integration",
+    "symptoms": [
+      "Lack of insight",
+      "poor self-awareness",
+      "repeated mistakes",
+      "difficulty evaluating behavior",
+      "reduced reflective capacity"
+    ],
+    "example_user_statements": [
+      "\u201cI don\u2019t realize I\u2019m doing something wrong until it\u2019s too late.\u201d",
+      "\u201cI struggle to reflect on how I come across.\u201d",
+      "\u201cI repeat patterns without knowing why.\u201d"
+    ],
+    "social_environmental_causes": "Authoritarian or chaotic environments, lack of modeled reflection, over-reliance on external regulation, invalidation of internal cues",
+    "plasticity_mechanisms": "Metacognitive capacity enhanced through structured self-reflection, journaling, and error-based learning. Neural tuning of DLPFC-ACC pathways via consistent internal feedback. Epigenetic regulation of attentional and evaluative control genes (e.g., COMT).",
+    "recommended_interventions": "Daily reflection rituals, behavioral journaling, outcome review routines, internal cue validation, mindfulness-based cognitive therapy (MBCT)",
+    "metaphoric_summary": "An inner dashboard with missing dials\u2014rebuilt by checking in and listening within.",
+    "key_neurotransmitters": "Dopamine, norepinephrine, glutamate",
+    "cognitive_functions": "Metacognition, error monitoring, internal guidance, attention to internal feedback",
+    "common_misdiagnoses": "ADHD, Impulse Control Disorders, Executive Dysfunction"
+  },
+  {
+    "circuit": "Fear & Stress Response",
+    "functional_description": "Mediated by the amygdala, hypothalamus, prefrontal cortex, and hippocampus, this circuit evaluates threat, activates stress responses, and encodes fear-related memory. It regulates acute defensive behavior and chronic vigilance.",
+    "traits_influenced": "Stress reactivity, threat sensitivity, arousal modulation, vigilance, protective behavior",
+    "symptoms": [
+      "Hypervigilance",
+      "exaggerated startle response",
+      "anxiety",
+      "freeze responses",
+      "physiological arousal (e.g.",
+      "elevated heart rate)"
+    ],
+    "example_user_statements": [
+      "\u201cI\u2019m always on edge.\u201d",
+      "\u201cI jump at every little thing.\u201d",
+      "\u201cI feel like something bad is going to happen all the time.\u201d"
+    ],
+    "social_environmental_causes": "Chronic unpredictability, trauma exposure, lack of emotional or physical safety, unsignaled threat experiences",
+    "plasticity_mechanisms": "HPA axis sensitivity modulated by early-life experience; amygdala-PFC balance shaped by safety exposure and emotion regulation; epigenetic modulation of stress-related genes (e.g., FKBP5, NR3C1) alters stress sensitivity and recovery.",
+    "recommended_interventions": "Safe exposure to tolerable challenge, stress recovery routines (e.g., breathwork, grounding), secure attachment repair, psychoeducation about fear and physiology",
+    "metaphoric_summary": "An alarm system stuck on high alert\u2014retrained to recognize when the danger has passed and the body is safe again.",
+    "key_neurotransmitters": "Cortisol, norepinephrine, CRH (corticotropin-releasing hormone)",
+    "cognitive_functions": "Threat detection, emotional salience filtering, physiological arousal regulation",
+    "common_misdiagnoses": "PTSD, Panic Disorder, Generalized Anxiety Disorder"
+  },
+  {
+    "circuit": "Grief Integration & Loss Processing",
+    "functional_description": "Involves the anterior cingulate cortex (ACC), amygdala, insula, hippocampus, and prefrontal cortex. This circuit governs emotional and physiological responses to loss, enabling mourning, memory consolidation, and eventual reorganization of attachment systems.",
+    "traits_influenced": "Emotional depth, capacity for love and loss, relational memory, existential meaning-making",
+    "symptoms": [
+      "Prolonged sadness",
+      "emotional numbness",
+      "relational detachment",
+      "intrusive memories",
+      "inability to accept change or loss"
+    ],
+    "example_user_statements": [
+      "\u201cI can\u2019t move on from the past.\u201d",
+      "\u201cLosses feel like they define who I am.\u201d",
+      "\u201cI\u2019m scared to connect again after what I\u2019ve lost.\u201d"
+    ],
+    "social_environmental_causes": "Unresolved loss, lack of ritual or social support, cultural suppression of grief expression, early attachment trauma",
+    "plasticity_mechanisms": "Emotional regulation and memory reconsolidation in grief pathways supported through co-regulation, ritual, meaning-making, and affect labeling. Epigenetic regulation of stress-memory circuits (e.g., FKBP5, BDNF) supports emotional integration and healing.",
+    "recommended_interventions": "Grief-informed therapy, expressive rituals, guided remembrance, meaning reconstruction, support group participation",
+    "metaphoric_summary": "A heart caught in memory\u2014soothed when grief is shared, named, and honored.",
+    "key_neurotransmitters": "Oxytocin, cortisol, serotonin, norepinephrine",
+    "cognitive_functions": "Emotional memory, social detachment repair, autobiographical narrative, future reintegration",
+    "common_misdiagnoses": "Complicated Grief, Depression, PTSD"
+  },
+  {
+    "circuit": "Gut-Brain Axis & Digestive Emotion Integration",
+    "functional_description": "This circuit integrates the enteric nervous system, vagus nerve, insula, and hypothalamic centers. It mediates bidirectional communication between emotional states and gastrointestinal function, influencing mood, appetite, and bodily intuition.",
+    "traits_influenced": "Appetite regulation, intuitive decision-making, emotional grounding, gut-level awareness",
+    "symptoms": [
+      "Digestive discomfort",
+      "food sensitivities",
+      "stress-related bloating or cramping",
+      "gut-driven anxiety",
+      "poor appetite cues"
+    ],
+    "example_user_statements": [
+      "\u201cI get stomach issues when I\u2019m anxious.\u201d",
+      "\u201cMy gut feelings are strong but confusing.\u201d",
+      "\u201cEating feels stressful or overwhelming.\u201d"
+    ],
+    "social_environmental_causes": "Food insecurity, emotional suppression, chronic stress, relational instability during eating",
+    "plasticity_mechanisms": "Vagal tone enhancement and gut microbiota modulation influence emotional resilience and digestive health. Epigenetic adaptation of inflammation and nutrient response genes (e.g., IL-6, CRH, gut-derived serotonin transporters) restores regulatory balance.",
+    "recommended_interventions": "Mindful eating, probiotic support, gut-focused therapy, breathwork for vagal tone, eating in emotionally safe settings",
+    "metaphoric_summary": "A second brain speaking in sensation\u2014understood when listened to with presence and care.",
+    "key_neurotransmitters": "Serotonin (90% gut-derived), GABA, cortisol, neuropeptide Y",
+    "cognitive_functions": "Interoception, emotion regulation, food-reward anticipation, digestive-affective integration",
+    "common_misdiagnoses": "IBS, Functional GI Disorders, Somatic Anxiety"
+  },
+  {
+    "circuit": "Hormonal Regulation & Energy Homeostasis",
+    "functional_description": "This circuit is anchored in the hypothalamus, pituitary gland, and feedback loops involving adrenal, thyroid, and metabolic hormone-producing systems. It maintains balance in energy availability, hunger, sleep, stress recovery, and metabolic rhythm.",
+    "traits_influenced": "Energy regulation, metabolic stability, appetite, mood balance, endurance, hormonal resilience",
+    "symptoms": [
+      "Fatigue",
+      "metabolic shifts",
+      "unexplained weight gain/loss",
+      "mood instability",
+      "stress intolerance",
+      "reproductive disruption"
+    ],
+    "example_user_statements": [
+      "\u201cI\u2019m always tired no matter how much I sleep.\u201d",
+      "\u201cMy energy crashes at the wrong times.\u201d",
+      "\u201cMy mood feels tied to how hungry or stressed I am.\u201d"
+    ],
+    "social_environmental_causes": "Chronic stress, undernourishment, overexertion, circadian disruption, attachment deprivation during development",
+    "plasticity_mechanisms": "Hypothalamic-pituitary axis regulation can be restored through stable sleep, nourishment, stress modulation, and circadian entrainment. Epigenetic changes to hormonal receptor sensitivity and gene expression (e.g., glucocorticoid receptor, leptin signaling) reverse under supportive conditions.",
+    "recommended_interventions": "Sleep hygiene, nourishing meal rhythm, mindful movement, stress recovery rituals, sunlight exposure, relational security",
+    "metaphoric_summary": "A thermostat overwhelmed by spikes and droughts\u2014recalibrated through rhythm, rest, and fuel.",
+    "key_neurotransmitters": "Cortisol, insulin, ghrelin, leptin, thyroid hormones, melatonin",
+    "cognitive_functions": "Energy appraisal, hunger signaling, hormonal feedback awareness, metabolic prioritization",
+    "common_misdiagnoses": "Chronic Fatigue Syndrome, Atypical Depression, Endocrine Disorders (e.g., Hypothyroidism)"
+  },
+  {
+    "circuit": "Humor Processing & Emotional Lightness",
+    "functional_description": "This circuit involves the prefrontal cortex (especially right PFC), amygdala, ventral striatum, and temporal-parietal junction (TPJ). It enables recognition, generation, and social sharing of humor\u2014enhancing emotional regulation, creativity, and relational bonding.",
+    "traits_influenced": "Playfulness, perspective flexibility, social charm, resilience, emotional lightness",
+    "symptoms": [
+      "Rigid thinking",
+      "emotional heaviness",
+      "social awkwardness",
+      "difficulty understanding or using humor",
+      "flat affect"
+    ],
+    "example_user_statements": [
+      "\u201cI don\u2019t find things funny anymore.\u201d",
+      "\u201cEverything feels too heavy for jokes.\u201d",
+      "\u201cI want to laugh, but it doesn\u2019t come naturally.\u201d"
+    ],
+    "social_environmental_causes": "Excessive seriousness, suppression of play, emotional invalidation, trauma impairing joy recognition or expression",
+    "plasticity_mechanisms": "Humor-related cognitive-emotional integration enhanced via social laughter, irony exploration, and flexible reappraisal. Reward-motivation network modulation via social joy and positive reframing. Epigenetic factors influencing reward prediction and emotional novelty (e.g., oxytocin/dopamine-related genes).",
+    "recommended_interventions": "Playful reappraisal, shared laughter, storytelling through humor, comedy journaling, joyful role play, therapeutic humor exposure",
+    "metaphoric_summary": "A balloon weighed down by sorrow\u2014lifted by levity, perspective, and shared laughter.",
+    "key_neurotransmitters": "Dopamine, oxytocin, endorphins",
+    "cognitive_functions": "Perspective shifting, incongruity detection, emotional reappraisal, social mirroring",
+    "common_misdiagnoses": "Depression, Schizoid Traits, Autism Spectrum (humor-related misunderstanding)"
+  },
+  {
+    "circuit": "Imagination & Mental Simulation",
+    "functional_description": "This circuit involves the default mode network (DMN), medial prefrontal cortex, hippocampus, and posterior parietal cortex. It enables mental rehearsal of future events, internal scene construction, perspective-switching, and creative envisioning.",
+    "traits_influenced": "Visualization, perspective-taking, narrative foresight, emotional rehearsal, future planning",
+    "symptoms": [
+      "Inability to visualize",
+      "rigid future thinking",
+      "impaired planning",
+      "dissociation into fantasy",
+      "underutilized creativity"
+    ],
+    "example_user_statements": [
+      "\u201cI can\u2019t picture things in my mind.\u201d",
+      "\u201cI don\u2019t know how to imagine the future.\u201d",
+      "\u201cMy thoughts feel blank unless I\u2019m distracted.\u201d"
+    ],
+    "social_environmental_causes": "Concrete or suppressive environments, trauma blocking imagination, lack of reflective play, overstimulating media impairing internal imagery",
+    "plasticity_mechanisms": "Neural strengthening of hippocampal-prefrontal simulation loops through creative thought exercises, imaginative storytelling, and guided visualization. Epigenetic changes to neurogenesis and attention networks (e.g., BDNF, CREB) foster expanded simulation capacity.",
+    "recommended_interventions": "Visualization training, guided imagery, future self journaling, daydreaming integration, role-play and scenario rehearsal",
+    "metaphoric_summary": "A canvas unpainted\u2014filled by imagination when the brush of freedom is returned.",
+    "key_neurotransmitters": "Dopamine, serotonin, acetylcholine",
+    "cognitive_functions": "Scene construction, episodic future thinking, narrative simulation, mental time travel",
+    "common_misdiagnoses": "Aphantasia, Depression (low ideation), ASD (concrete thinking traits)"
+  },
+  {
+    "circuit": "Interoception & Self-Awareness",
+    "functional_description": "This circuit integrates visceral signals from the body with cognitive and emotional interpretation via the insula, anterior cingulate cortex (ACC), and somatosensory cortex. It underlies internal state monitoring, body awareness, and emotional self-awareness.",
+    "traits_influenced": "Mind-body connection, emotional clarity, internal self-awareness, physical intuition",
+    "symptoms": [
+      "Disconnection from bodily sensations",
+      "emotional numbness",
+      "poor hunger/thirst awareness",
+      "difficulty naming feelings"
+    ],
+    "example_user_statements": [
+      "\u201cI don\u2019t feel connected to my body.\u201d",
+      "\u201cI never notice I\u2019m hungry until I crash.\u201d",
+      "\u201cI have trouble figuring out how I feel.\u201d"
+    ],
+    "social_environmental_causes": "Chronic invalidation, suppression of emotional expression, trauma-induced dissociation, somatic neglect",
+    "plasticity_mechanisms": "Plasticity in insular and cingulate networks modulated by mindfulness and somatic focus; epigenetic regulation of interoceptive feedback loops; body-mind practices restore connectivity and precision of internal representation.",
+    "recommended_interventions": "Body scan meditation, somatic tracking, breath awareness, expressive movement, emotional labeling practices",
+    "metaphoric_summary": "Like a stethoscope for the soul\u2014muted by silence, reawakened through listening within.",
+    "key_neurotransmitters": "Serotonin, oxytocin, acetylcholine",
+    "cognitive_functions": "Interoception, affect labeling, emotional granularity, somatic awareness",
+    "common_misdiagnoses": "Alexithymia, Somatic Symptom Disorder, Depersonalization/Derealization Disorder"
+  },
+  {
+    "circuit": "Language & Internal Dialogue Regulation",
+    "functional_description": "Relies on Broca\u2019s area, Wernicke\u2019s area, the arcuate fasciculus, and connections with the dorsolateral prefrontal cortex. This circuit enables coherent speech production, comprehension, and regulation of inner dialogue, shaping how individuals talk to and about themselves.",
+    "traits_influenced": "Self-talk style, narrative construction, verbal fluency, metacognition, self-reflection",
+    "symptoms": [
+      "Harsh inner critic",
+      "obsessive self-commentary",
+      "verbal shutdown",
+      "trouble expressing thoughts clearly"
+    ],
+    "example_user_statements": [
+      "\u201cMy inner voice is constantly criticizing me.\u201d",
+      "\u201cI can\u2019t find the words for how I feel.\u201d",
+      "\u201cI repeat negative thoughts in my head all day.\u201d"
+    ],
+    "social_environmental_causes": "Verbal invalidation, language-based punishment, exposure to shaming or negative feedback, emotionally suppressed environments",
+    "plasticity_mechanisms": "Language plasticity through expressive writing, verbal rehearsal, and positive re-narration. Neuroplastic modulation of Broca-Wernicke integration; epigenetic influence via stress-modulated language-related gene expression.",
+    "recommended_interventions": "Compassionate inner dialogue practices, expressive writing, narrative therapy, metacognitive journaling, nonviolent communication training",
+    "metaphoric_summary": "An internal narrator stuck on repeat\u2014rewritten through truth, kindness, and choice.",
+    "key_neurotransmitters": "Glutamate, dopamine, serotonin",
+    "cognitive_functions": "Verbal working memory, metacognition, semantic self-labeling, internal narrative generation",
+    "common_misdiagnoses": "Depression, OCD (ruminative subtype), Selective Mutism, Thought Disorder (when misunderstood)"
+  },
+  {
+    "circuit": "Learning & Adaptation",
+    "functional_description": "Centered in the striatum, basal ganglia, prefrontal cortex, and motor cortex, this circuit enables procedural learning, habit formation, and behavioral adjustment based on reinforcement and feedback loops.",
+    "traits_influenced": "Behavioral consistency, habit strength, adaptability to feedback, procedural mastery, self-discipline",
+    "symptoms": [
+      "Difficulty forming habits",
+      "disorganization",
+      "failure to adapt behavior after mistakes",
+      "resistance to new routines"
+    ],
+    "example_user_statements": [
+      "\u201cI can\u2019t stick to habits.\u201d",
+      "\u201cI keep making the same mistakes.\u201d",
+      "\u201cI struggle to learn from my experiences.\u201d"
+    ],
+    "social_environmental_causes": "Chaotic environments, inconsistent reinforcement, excessive unpredictability, absence of structure or guidance",
+    "plasticity_mechanisms": "Plasticity within cortico-striatal-thalamic loops shaped by reward prediction and outcome tracking; dopamine-mediated learning; epigenetic influences on procedural encoding and reinforcement sensitivity. Adaptable through consistent routines and feedback.",
+    "recommended_interventions": "Daily structure, positive habit loops, goal-linked reinforcement, guided repetition, reflection on progress patterns",
+    "metaphoric_summary": "A pathway overgrown from neglect\u2014cleared and strengthened each time you walk it with purpose.",
+    "key_neurotransmitters": "Dopamine, glutamate, acetylcholine",
+    "cognitive_functions": "Procedural memory, reinforcement learning, behavioral conditioning",
+    "common_misdiagnoses": "ADHD, Oppositional Defiant Disorder (ODD), Conduct Disorder"
+  },
+  {
+    "circuit": "Memory Consolidation",
+    "functional_description": "Involves interaction between the hippocampus, neocortex, and prefrontal cortex to stabilize short-term experiences into long-term memory. It supports contextual learning, knowledge integration, and reflective awareness.",
+    "traits_influenced": "Long-term recall, reflective thinking, contextual integration, insight formation, autobiographical memory",
+    "symptoms": [
+      "Forgetfulness",
+      "fragmented memory",
+      "poor integration of experience",
+      "reduced learning transfer"
+    ],
+    "example_user_statements": [
+      "\u201cI forget things I just learned.\u201d",
+      "\u201cIt\u2019s hard for me to hold onto memories.\u201d",
+      "\u201cI don\u2019t feel like I\u2019m learning from my experiences.\u201d"
+    ],
+    "social_environmental_causes": "Sleep deprivation, emotional chaos, absence of reflection or narrative integration, cognitive overload or suppression",
+    "plasticity_mechanisms": "LTP (long-term potentiation), hippocampal neurogenesis, and memory consolidation pathways regulated by sleep, novelty, and emotional salience. Cortisol exposure impairs consolidation; epigenetic markers (e.g., CREB) influence memory encoding and stabilization.",
+    "recommended_interventions": "High-quality sleep, reflective journaling, spaced repetition of meaningful content, emotionally engaging learning, narrative integration practices",
+    "metaphoric_summary": "A library that can only shelve its books during quiet hours\u2014rest and reflection let the lessons take root.",
+    "key_neurotransmitters": "Glutamate, acetylcholine, GABA",
+    "cognitive_functions": "Memory consolidation, long-term retention, contextual learning",
+    "common_misdiagnoses": "Dissociative Disorders, Mild Cognitive Impairment, ADHD"
+  },
+  {
+    "circuit": "Moral Reasoning & Social Norm Integration",
+    "functional_description": "Involves the ventromedial prefrontal cortex (vmPFC), temporoparietal junction (TPJ), and posterior cingulate cortex (PCC). It governs internalization of values, ethical judgment, and social rule adherence through integration of empathy, consequence prediction, and cultural learning.",
+    "traits_influenced": "Conscience, fairness, guilt, ethical decision-making, prosocial reasoning",
+    "symptoms": [
+      "Indecisiveness about right/wrong",
+      "excessive guilt",
+      "moral rigidity",
+      "lack of remorse",
+      "hypersensitivity to norm violation"
+    ],
+    "example_user_statements": [
+      "\u201cI always feel guilty, even when I didn\u2019t do anything wrong.\u201d",
+      "\u201cI don\u2019t know what\u2019s right or wrong.\u201d",
+      "\u201cI get upset when others break the rules.\u201d"
+    ],
+    "social_environmental_causes": "Authoritarian or chaotic moral environments, inconsistent consequences, cultural shaming, absence of secure values modeling",
+    "plasticity_mechanisms": "Plasticity in value representation and perspective-taking networks supported by reflective practice, moral dialogue, and affective storytelling. Epigenetic regulation of serotonin and oxytocin systems linked to ethical sensitivity and prosociality.",
+    "recommended_interventions": "Reflective ethical discussions, value clarification journaling, empathy-driven storytelling, consequence-mapping exercises, compassionate accountability structures",
+    "metaphoric_summary": "An internal compass spun by others\u2019 storms\u2014recentered by clarity, dialogue, and connection to values.",
+    "key_neurotransmitters": "Serotonin, oxytocin, dopamine",
+    "cognitive_functions": "Perspective-taking, ethical reasoning, consequence simulation, rule abstraction",
+    "common_misdiagnoses": "OCD (moral subtype), Guilt-based Depression, Conduct Disorders (if underexpressed)"
+  },
+  {
+    "circuit": "Motivation & Reward",
+    "functional_description": "Comprises dopaminergic projections from the ventral tegmental area (VTA) to the nucleus accumbens and prefrontal cortex, modulated by the amygdala. Governs reward anticipation, goal-directed behavior, and motivational salience.",
+    "traits_influenced": "Drive, initiative, reward sensitivity, task persistence, engagement",
+    "symptoms": [
+      "Low motivation",
+      "anhedonia",
+      "procrastination",
+      "lack of initiative",
+      "reward insensitivity"
+    ],
+    "example_user_statements": [
+      "\u201cI can\u2019t get myself to do anything, even things I care about.\u201d",
+      "\u201cI feel numb and unmotivated.\u201d",
+      "\u201cNothing excites me anymore.\u201d"
+    ],
+    "social_environmental_causes": "Inconsistent reinforcement, emotional invalidation, neglect, burnout, achievement-based self-worth",
+    "plasticity_mechanisms": "Altered dopamine receptor sensitivity and synaptic plasticity within mesocorticolimbic circuitry; stress-related suppression of dopaminergic tone; reactivation possible through positive feedback, achievable goals, and emotionally meaningful tasks.",
+    "recommended_interventions": "Behavioral activation, structured goal setting, consistent positive reinforcement, gamified routines, emotionally resonant reward design",
+    "metaphoric_summary": "A spark engine that once ran on hope but sputtered under neglect\u2014rekindled by meaningful fuel and predictable ignition.",
+    "key_neurotransmitters": "Dopamine, serotonin, endorphins",
+    "cognitive_functions": "Goal setting, effort-reward prediction, behavioral initiation, emotional salience encoding",
+    "common_misdiagnoses": "Depression, ADHD (Inattentive Type), Avolition in Schizophrenia Spectrum"
+  },
+  {
+    "circuit": "Motor Coordination",
+    "functional_description": "Integrates the primary motor cortex, basal ganglia, cerebellum, and spinal cord to initiate, refine, and execute voluntary movement. It facilitates motor learning, postural control, and sensorimotor feedback integration.",
+    "traits_influenced": "Physical dexterity, balance, coordination, motor learning, somatic awareness",
+    "symptoms": [
+      "Clumsiness",
+      "poor coordination",
+      "delayed motor learning",
+      "low physical confidence",
+      "dysregulated body awareness"
+    ],
+    "example_user_statements": [
+      "\u201cI bump into things or drop stuff a lot.\u201d",
+      "\u201cI feel clumsy and uncoordinated.\u201d",
+      "\u201cI struggle to learn physical skills like dancing or sports.\u201d"
+    ],
+    "social_environmental_causes": "Sedentary lifestyle, restricted motor exploration, lack of physical encouragement or skill-building opportunities, trauma-related motor inhibition",
+    "plasticity_mechanisms": "Use-dependent plasticity in motor cortex and cerebellar circuits; repetition strengthens motor maps; epigenetic changes affect neuromuscular development and motor learning. Enhanced via rhythmic, varied, and feedback-rich movement.",
+    "recommended_interventions": "Playful physical activity, guided motor skill training, proprioceptive stimulation, dance or martial arts, sensorimotor feedback exercises",
+    "metaphoric_summary": "A musical instrument that falls out of tune without use\u2014refined with rhythm, repetition, and flow.",
+    "key_neurotransmitters": "Dopamine, acetylcholine, GABA",
+    "cognitive_functions": "Motor planning, proprioception, sensorimotor integration",
+    "common_misdiagnoses": "Developmental Coordination Disorder (DCD), Dyspraxia, ADHD"
+  },
+  {
+    "circuit": "Olfactory Memory & Scent-Emotion Link",
+    "functional_description": "This circuit includes the olfactory bulb, piriform cortex, amygdala, and hippocampus. It directly connects sensory smell input to emotional memory and instinctive behavioral responses, bypassing traditional thalamic filtering.",
+    "traits_influenced": "Emotional memory recall, intimacy, instinctive behavior, environmental safety detection, sensory nostalgia",
+    "symptoms": [
+      "Blunted emotional responses",
+      "smell aversion",
+      "dissociation",
+      "trouble accessing emotional memories",
+      "loss of intimacy connection"
+    ],
+    "example_user_statements": [
+      "\u201cSmells bring back strong feelings I can\u2019t explain.\u201d",
+      "\u201cI avoid certain places because of how they smell.\u201d",
+      "\u201cI don\u2019t feel anything from smells anymore.\u201d"
+    ],
+    "social_environmental_causes": "Trauma associated with scent, emotional neglect, deprivation of comforting sensory environments, olfactory overload",
+    "plasticity_mechanisms": "Rewiring of olfactory-limbic associations through intentional scent-emotion pairing and safe re-exposure. Epigenetic regulation of olfactory receptor gene expression (e.g., OR genes) and memory-affective integration genes (e.g., BDNF).",
+    "recommended_interventions": "Aromatherapy with emotional anchoring, scent-based memory recall exercises, olfactory desensitization, nostalgic scent journaling",
+    "metaphoric_summary": "A portal to the past hidden in smell\u2014unlocked through presence and emotional anchoring.",
+    "key_neurotransmitters": "Serotonin, oxytocin, glutamate",
+    "cognitive_functions": "Emotional memory, sensory association, safety perception, instinctive learning",
+    "common_misdiagnoses": "PTSD (triggered by scent), Depression (blunted olfaction), Sensory Avoidance in ASD"
+  },
+  {
+    "circuit": "Pain Perception & Affective Pain Processing",
+    "functional_description": "This circuit includes the somatosensory cortex, insula, anterior cingulate cortex (ACC), thalamus, and periaqueductal gray (PAG). It processes physical pain along with its emotional meaning, influencing avoidance behavior and suffering.",
+    "traits_influenced": "Pain sensitivity, resilience, affective distress tolerance, mind-body integration",
+    "symptoms": [
+      "Chronic pain",
+      "emotional amplification of physical discomfort",
+      "psychosomatic tension",
+      "emotional shutdown in response to pain"
+    ],
+    "example_user_statements": [
+      "\u201cI feel pain even when nothing\u2019s wrong.\u201d",
+      "\u201cMy body hurts when I\u2019m stressed.\u201d",
+      "\u201cI\u2019ve been in pain for so long I can\u2019t separate it from who I am.\u201d"
+    ],
+    "social_environmental_causes": "Early physical trauma, emotional neglect, unsignaled danger, lack of soothing touch, invalidation of pain expression",
+    "plasticity_mechanisms": "Plasticity in the cortical pain matrix is shaped by pain exposure, coping strategies, and co-regulatory touch. Epigenetic modulation of inflammation and stress pain sensitivity pathways (e.g., IL-6, NR3C1) affects pain threshold and emotional processing.",
+    "recommended_interventions": "Somatic tracking, safe therapeutic touch, expressive writing about pain, pain-reprocessing therapy, mindfulness-based stress reduction (MBSR)",
+    "metaphoric_summary": "An internal alarm tuned too high\u2014softened by recognition, touch, and trust.",
+    "key_neurotransmitters": "Endorphins, serotonin, dopamine, substance P",
+    "cognitive_functions": "Pain appraisal, affective regulation, sensory integration, interoceptive interpretation",
+    "common_misdiagnoses": "Somatic Symptom Disorder, Chronic Pain Syndrome, Fibromyalgia"
+  },
+  {
+    "circuit": "Play & Social Joy Circuit",
+    "functional_description": "Involves the nucleus accumbens, orbitofrontal cortex, ventral tegmental area (VTA), and subcortical motor centers. Supports spontaneous, exploratory, and prosocial play behavior that promotes bonding, learning, and emotional regulation.",
+    "traits_influenced": "Joyfulness, curiosity, prosocial bonding, creativity, emotional flexibility",
+    "symptoms": [
+      "Loss of enjoyment",
+      "social apathy",
+      "emotional flatness",
+      "rigid behavior",
+      "resistance to spontaneity"
+    ],
+    "example_user_statements": [
+      "\u201cI don\u2019t know how to have fun anymore.\u201d",
+      "\u201cI feel disconnected from joy or silliness.\u201d",
+      "\u201cEverything feels serious and heavy.\u201d"
+    ],
+    "social_environmental_causes": "Overstructuring, lack of safe play opportunities, performance-based environments, emotional suppression",
+    "plasticity_mechanisms": "Dopaminergic and opioid-based neural plasticity in response to unstructured social play and joyful exploration; strengthens reward pathways and social-emotional regulation. Epigenetic regulation of play-related reward signaling.",
+    "recommended_interventions": "Spontaneous movement, laughter-based connection, role-play games, unstructured creative expression, social rituals involving shared joy",
+    "metaphoric_summary": "A spark of joy buried under structure\u2014rekindled when play is safe and shared.",
+    "key_neurotransmitters": "Dopamine, endorphins, oxytocin",
+    "cognitive_functions": "Social mirroring, motor-emotional expression, reward-based learning, flexibility",
+    "common_misdiagnoses": "Depression, Anhedonia, Autism Spectrum Disorder"
+  },
+  {
+    "circuit": "Proprioception & Body Ownership",
+    "functional_description": "This circuit includes the somatosensory cortex, cerebellum, parietal lobe, and premotor cortex. It governs unconscious awareness of body position, limb movement, and the sense that the body belongs to oneself.",
+    "traits_influenced": "Balance, coordination, kinesthetic intelligence, embodied sense of self, physical confidence",
+    "symptoms": [
+      "Clumsiness",
+      "disorientation",
+      "poor coordination",
+      "feeling detached from the body",
+      "misjudging space or force"
+    ],
+    "example_user_statements": [
+      "\u201cI don\u2019t feel fully in my body.\u201d",
+      "\u201cI\u2019m always bumping into things or dropping stuff.\u201d",
+      "\u201cMovement feels disconnected or hard to control.\u201d"
+    ],
+    "social_environmental_causes": "Lack of physical play, trauma-induced dissociation, reduced motor feedback, over-reliance on external control",
+    "plasticity_mechanisms": "Use-dependent plasticity of proprioceptive circuits via movement training, play, and tactile stimulation. Epigenetic regulation of mechanoreceptor function and sensory integration pathways.",
+    "recommended_interventions": "Balance and coordination training, mindful movement (e.g., yoga, martial arts), dance, body-based therapies, weighted/resistance stimulation",
+    "metaphoric_summary": "A compass for the body lost to stillness\u2014recalibrated through motion, grounding, and presence.",
+    "key_neurotransmitters": "Glutamate, GABA, dopamine",
+    "cognitive_functions": "Sensorimotor integration, spatial estimation, limb coordination, motor planning",
+    "common_misdiagnoses": "Dyspraxia, Sensory Integration Disorder, Dissociative Symptoms"
+  },
+  {
+    "circuit": "Risk Detection & Behavioral Inhibition",
+    "functional_description": "This circuit includes the anterior cingulate cortex (ACC), orbitofrontal cortex (OFC), amygdala, and basal ganglia. It monitors potential threats, evaluates outcomes, and regulates inhibitory control in the face of uncertainty or risk.",
+    "traits_influenced": "Cautiousness, delay of gratification, risk aversion, decision-making under uncertainty",
+    "symptoms": [
+      "Impulsivity",
+      "over-cautiousness",
+      "indecision",
+      "avoidance of action",
+      "chronic overthinking"
+    ],
+    "example_user_statements": [
+      "\u201cI freeze when I have to make a decision.\u201d",
+      "\u201cI can\u2019t control my impulses.\u201d",
+      "\u201cI avoid anything that feels uncertain.\u201d"
+    ],
+    "social_environmental_causes": "Punitive environments, excessive uncertainty, fear-based upbringing, reward inconsistency",
+    "plasticity_mechanisms": "Circuit tuning through exposure to tolerable risk and outcome predictability. ACC/OFC plasticity strengthened by feedback, behavioral inhibition training, and value-based decision mapping. Epigenetic regulation of serotonin and dopamine signaling pathways affects inhibition thresholds.",
+    "recommended_interventions": "Graded exposure to challenge, structured decision-making support, impulse-reflection journaling, mindfulness of outcome mapping, low-stakes experimentation",
+    "metaphoric_summary": "An inner brake that slams or fails\u2014retrained through feedback, trust, and safe risks.",
+    "key_neurotransmitters": "Dopamine, serotonin, norepinephrine, GABA",
+    "cognitive_functions": "Inhibitory control, risk evaluation, uncertainty monitoring, error prediction",
+    "common_misdiagnoses": "ADHD, OCD, Anxiety Disorders, Avoidant Personality Disorder"
+  },
+  {
+    "circuit": "Self-Other Boundary & Identity Integration",
+    "functional_description": "This circuit involves the default mode network (DMN), medial prefrontal cortex (mPFC), posterior cingulate cortex (PCC), and temporoparietal junction (TPJ). It supports differentiation of self from others, autobiographical memory, and continuity of identity.",
+    "traits_influenced": "Sense of self, personal boundaries, identity coherence, self-reflection, relational clarity",
+    "symptoms": [
+      "Identity confusion",
+      "enmeshment",
+      "depersonalization",
+      "difficulty asserting needs",
+      "weak boundaries"
+    ],
+    "example_user_statements": [
+      "\u201cI don\u2019t know who I am.\u201d",
+      "\u201cI lose myself in other people\u2019s emotions.\u201d",
+      "\u201cI have trouble saying no or protecting my space.\u201d"
+    ],
+    "social_environmental_causes": "Boundary violations, emotional enmeshment, identity invalidation, role confusion in early development",
+    "plasticity_mechanisms": "Plasticity in the DMN and self-processing hubs shaped by narrative formation, boundary practice, and social mirroring. Epigenetic regulation affects self-referential processing and intersubjective integration.",
+    "recommended_interventions": "Narrative therapy, identity mapping, assertiveness training, mindfulness of self-other distinctions, internal family systems (IFS)-style parts work",
+    "metaphoric_summary": "A blurred mirror of self\u2014sharpened by story, reflection, and personal truth.",
+    "key_neurotransmitters": "Serotonin, oxytocin, dopamine",
+    "cognitive_functions": "Autobiographical memory, perspective-taking, narrative integration, boundary tracking",
+    "common_misdiagnoses": "Borderline Personality Disorder, Depersonalization Disorder, Codependency"
+  },
+  {
+    "circuit": "Sensory Gating & Information Filtering",
+    "functional_description": "This circuit involves the thalamus, prefrontal cortex, reticular activating system, and hippocampus. It modulates which sensory inputs are prioritized or suppressed before reaching conscious awareness, supporting focus and protection from sensory overload.",
+    "traits_influenced": "Sensory modulation, environmental tolerance, mental clarity, information prioritization",
+    "symptoms": [
+      "Sensory overload",
+      "mental noise",
+      "distractibility",
+      "trouble filtering irrelevant stimuli",
+      "emotional flooding"
+    ],
+    "example_user_statements": [
+      "\u201cI feel overwhelmed in noisy places.\u201d",
+      "\u201cI can\u2019t focus when there\u2019s too much going on.\u201d",
+      "\u201cMy brain doesn\u2019t filter things\u2014it just absorbs everything.\u201d"
+    ],
+    "social_environmental_causes": "Chaotic or overstimulating settings, trauma-induced sensory amplification, lack of sensory predictability or regulation",
+    "plasticity_mechanisms": "Experience-dependent tuning of thalamo-cortical relay pathways and inhibitory control via prefrontal regulation. Epigenetic modulation of sensory gating channels (e.g., CHRNA7) linked to sensory processing sensitivity.",
+    "recommended_interventions": "Structured sensory environments, rhythmic sensory practices, mindfulness of stimulus impact, gating retraining via graduated exposure and focused attention practices",
+    "metaphoric_summary": "A mental filter with too many holes or blockages\u2014recalibrated by rhythm, pattern, and protection.",
+    "key_neurotransmitters": "GABA, acetylcholine, norepinephrine",
+    "cognitive_functions": "Sensory gating, stimulus prioritization, environmental scanning, cognitive load regulation",
+    "common_misdiagnoses": "ADHD, Sensory Processing Disorder, PTSD"
+  },
+  {
+    "circuit": "Sexual Behavior & Reproductive Drive",
+    "functional_description": "This circuit includes the hypothalamus (especially medial preoptic area), amygdala, nucleus accumbens, and brainstem nuclei. It regulates sexual motivation, arousal, mating behavior, and bonding through hormonal and reward-related signaling.",
+    "traits_influenced": "Sexual desire, arousal regulation, romantic motivation, bonding behaviors, sensual receptivity",
+    "symptoms": [
+      "Low or excessive libido",
+      "sexual avoidance",
+      "shame in sexuality",
+      "difficulty forming romantic connections",
+      "dysregulated arousal"
+    ],
+    "example_user_statements": [
+      "\u201cI feel disconnected from my sexuality.\u201d",
+      "\u201cI want intimacy but avoid it.\u201d",
+      "\u201cMy sexual desire comes and goes without control.\u201d"
+    ],
+    "social_environmental_causes": "Sexual trauma, shame-based conditioning, inconsistent sexual messaging, attachment disruption",
+    "plasticity_mechanisms": "Plasticity in hypothalamic and limbic circuits through safe, attuned sexual/romantic connection; reward reinforcement modulates arousal-reward coupling. Epigenetic regulation of sex hormone receptor expression (e.g., estrogen/testosterone receptors) linked to attachment and sexual development.",
+    "recommended_interventions": "Safe romantic/sexual expression, sex-positive therapy, body trust practices, mindfulness of arousal cycles, consensual sensual exploration",
+    "metaphoric_summary": "A flame dimmed by fear or shame\u2014rekindled through safe connection, permission, and self-ownership.",
+    "key_neurotransmitters": "Dopamine, oxytocin, testosterone, estrogen, vasopressin",
+    "cognitive_functions": "Arousal evaluation, bonding anticipation, trust encoding, reward prediction",
+    "common_misdiagnoses": "Sexual Dysfunction, Hypoactive Sexual Desire Disorder, Compulsive Sexual Behavior"
+  },
+  {
+    "circuit": "Sleep-Wake Regulation & Circadian Rhythm",
+    "functional_description": "Regulated by the suprachiasmatic nucleus (SCN) of the hypothalamus, pineal gland, and brainstem arousal centers. This circuit controls daily biological rhythms, sleep quality, energy cycling, and recovery mechanisms essential for cognitive and emotional regulation.",
+    "traits_influenced": "Sleep consistency, mental clarity, mood stability, energy levels, emotional resilience",
+    "symptoms": [
+      "Insomnia",
+      "fatigue",
+      "mood swings",
+      "irritability",
+      "poor focus",
+      "physical burnout"
+    ],
+    "example_user_statements": [
+      "\u201cI can\u2019t fall asleep or stay asleep.\u201d",
+      "\u201cMy energy is all over the place.\u201d",
+      "\u201cI feel foggy and disconnected during the day.\u201d"
+    ],
+    "social_environmental_causes": "Irregular sleep schedule, artificial light exposure, chronic stress, inconsistent routines, trauma-induced arousal dysregulation",
+    "plasticity_mechanisms": "Regulation of circadian gene expression (e.g., CLOCK, PER, BMAL1) through light exposure, sleep hygiene, and social rhythm alignment. Neuroplastic recovery via melatonin rhythm stabilization and reduction in sleep fragmentation.",
+    "recommended_interventions": "Consistent sleep-wake routines, light therapy, screen time reduction before bed, relaxation rituals, circadian rhythm alignment techniques",
+    "metaphoric_summary": "An internal clock thrown off by chaos\u2014reset by rhythm, rest, and light.",
+    "key_neurotransmitters": "Melatonin, cortisol, orexin, GABA",
+    "cognitive_functions": "Arousal regulation, memory consolidation, metabolic regulation, stress recovery",
+    "common_misdiagnoses": "Insomnia Disorder, Depression, Bipolar Disorder (sleep-related features)"
+  },
+  {
+    "circuit": "Social Affiliation",
+    "functional_description": "Involves integration of social cognition, reward processing, and emotional resonance via mPFC, posterior cingulate cortex, temporoparietal junction, amygdala, and insula. Regulates attachment, empathy, and social bonding.",
+    "traits_influenced": "Empathy, social intelligence, attachment style, interpersonal warmth, trust",
+    "symptoms": [
+      "Social withdrawal",
+      "lack of empathy",
+      "mistrust",
+      "difficulty forming close relationships",
+      "loneliness"
+    ],
+    "example_user_statements": [
+      "\u201cI find it hard to connect with people.\u201d",
+      "\u201cI don\u2019t trust anyone easily.\u201d",
+      "\u201cI often feel alone even when I'm with others.\u201d"
+    ],
+    "social_environmental_causes": "Early attachment disruption, chronic rejection, social trauma, lack of emotional mirroring or secure relationships",
+    "plasticity_mechanisms": "Plasticity in oxytocin receptor distribution and reward pathways; epigenetic modulation of oxytocin signaling (e.g., OXTR gene). Enhanced via nurturing contact, consistent positive social feedback, and secure relational experiences.",
+    "recommended_interventions": "Engagement in emotionally safe relationships, therapeutic attunement, oxytocin-promoting interactions (touch, eye contact, validation), social rhythm establishment",
+    "metaphoric_summary": "A social radar that\u2019s been jammed by static\u2014requiring consistent warmth and clarity to tune back into connection.",
+    "key_neurotransmitters": "Oxytocin, dopamine, serotonin",
+    "cognitive_functions": "Social cognition, emotional resonance, attachment appraisal, interpersonal theory of mind",
+    "common_misdiagnoses": "Autism Spectrum Disorder (ASD), Avoidant Personality Disorder, Social Anxiety Disorder"
+  },
+  {
+    "circuit": "Social Behavior",
+    "functional_description": "This circuit integrates emotional salience and reward valuation for social stimuli via the mPFC, insula, amygdala, and nucleus accumbens. It underlies social approach, trust formation, cooperation, and affiliative motivation.",
+    "traits_influenced": "Trust, cooperation, social intuition, responsiveness to others, interpersonal warmth",
+    "symptoms": [
+      "Social avoidance",
+      "reduced empathy",
+      "suspicion",
+      "difficulty connecting with others",
+      "emotional detachment"
+    ],
+    "example_user_statements": [
+      "\u201cI find it hard to trust people.\u201d",
+      "\u201cI avoid social situations.\u201d",
+      "\u201cI don't feel connected to anyone.\u201d"
+    ],
+    "social_environmental_causes": "Social trauma, chronic invalidation, betrayal, exclusion, or conditional approval environments",
+    "plasticity_mechanisms": "Plasticity in reward and oxytocinergic circuits driven by consistent prosocial feedback; epigenetic regulation of social neuropeptides (e.g., oxytocin, vasopressin pathways). Reinforced through meaningful and safe relational interactions.",
+    "recommended_interventions": "Intentional social engagement, secure relational repair, group-based activities with shared goals, oxytocin-boosting interactions (e.g., eye contact, mirroring, touch), therapeutic alliance",
+    "metaphoric_summary": "A bridge once weakened by broken trust\u2014repaired through repeated steps of safety, recognition, and shared connection.",
+    "key_neurotransmitters": "Oxytocin, dopamine, serotonin, vasopressin",
+    "cognitive_functions": "Social reward processing, emotional resonance, social prediction, behavioral mimicry",
+    "common_misdiagnoses": "Schizoid Personality Disorder, Social Anxiety Disorder, Autism Spectrum Disorder"
+  },
+  {
+    "circuit": "Social Hierarchy & Status Sensitivity",
+    "functional_description": "Involves the medial prefrontal cortex (mPFC), ventral striatum, amygdala, and superior temporal sulcus (STS), facilitating awareness of social rank, self-other comparison, and social acceptance or rejection cues.",
+    "traits_influenced": "Competitiveness, shame-proneness, self-esteem, social vigilance, validation-seeking",
+    "symptoms": [
+      "Fear of judgment",
+      "chronic shame",
+      "social withdrawal",
+      "aggressive dominance or submission behaviors"
+    ],
+    "example_user_statements": [
+      "\u201cI constantly feel like I'm being judged.\u201d",
+      "\u201cI don\u2019t speak up\u2014I feel beneath everyone.\u201d",
+      "\u201cI tie my value to how well I perform.\u201d"
+    ],
+    "social_environmental_causes": "Performance pressure, humiliation, rejection, hierarchical trauma (e.g., bullying, favoritism)",
+    "plasticity_mechanisms": "Reward circuitry plasticity via social feedback; mPFC modulation through relational safety and role experimentation. Epigenetic regulation of social dominance traits via oxytocin and dopamine pathway genes.",
+    "recommended_interventions": "Self-compassion training, role reversal exercises, peer validation in egalitarian settings, status-neutral play, expressive arts",
+    "metaphoric_summary": "A social mirror cracked by comparison\u2014repaired by finding worth beyond ranking.",
+    "key_neurotransmitters": "Dopamine, serotonin, oxytocin, testosterone",
+    "cognitive_functions": "Social appraisal, self-other comparison, status interpretation, relational memory",
+    "common_misdiagnoses": "Social Anxiety Disorder, Narcissistic Traits, Avoidant Personality Disorder"
+  },
+  {
+    "circuit": "Spiritual/Awe Processing",
+    "functional_description": "This circuit includes the posterior cingulate cortex (PCC), medial prefrontal cortex (mPFC), temporal-parietal junction (TPJ), and insula. It supports transcendent experiences, existential reflection, interconnectedness, and meaning-making beyond the self.",
+    "traits_influenced": "Sense of purpose, existential comfort, reverence, compassion, universal belonging",
+    "symptoms": [
+      "Existential dread",
+      "loss of meaning",
+      "spiritual detachment",
+      "nihilism",
+      "derealization"
+    ],
+    "example_user_statements": [
+      "\u201cI feel disconnected from something greater.\u201d",
+      "\u201cLife feels empty or meaningless.\u201d",
+      "\u201cI\u2019ve lost my sense of wonder or spiritual feeling.\u201d"
+    ],
+    "social_environmental_causes": "Meaning invalidation, oppressive dogma, trauma-induced disconnection, lack of access to awe or mystery",
+    "plasticity_mechanisms": "Integration of self-transcendent states facilitated by mindfulness, nature immersion, ritual, and symbolic practices. Epigenetic shifts in neuroinflammatory pathways, serotonergic tone, and memory-affect integration (e.g., CREB, SERT genes) support restoration of meaning orientation.",
+    "recommended_interventions": "Awe journaling, sacred storytelling, guided nature-based meditation, symbolic ritual creation, contemplative practices",
+    "metaphoric_summary": "A star dimmed by doubt\u2014rekindled when meaning, mystery, and connection are reawakened.",
+    "key_neurotransmitters": "Serotonin, oxytocin, endorphins",
+    "cognitive_functions": "Meaning-making, existential awareness, transcendence perception, perspective expansion",
+    "common_misdiagnoses": "Existential Depression, Dissociation, Depersonalization Disorder"
+  },
+  {
+    "circuit": "Threat Appraisal & Safety Detection (Neuroception)",
+    "functional_description": "Regulated by the amygdala, periaqueductal gray (PAG), insula, and brainstem nuclei, this circuit constantly evaluates whether the environment is safe or dangerous without conscious awareness. It governs implicit defense activation and baseline vigilance.",
+    "traits_influenced": "Baseline anxiety, safety perception, emotional tone, physiological readiness, reactivity to cues",
+    "symptoms": [
+      "Persistent unease",
+      "scanning for threat",
+      "hyperarousal",
+      "social defensiveness",
+      "chronic mistrust"
+    ],
+    "example_user_statements": [
+      "\u201cI feel unsafe even when nothing is wrong.\u201d",
+      "\u201cI\u2019m always waiting for something bad to happen.\u201d",
+      "\u201cI can\u2019t relax around people.\u201d"
+    ],
+    "social_environmental_causes": "Unpredictable caregiving, emotional trauma, abuse, sensory overwhelm, social exclusion",
+    "plasticity_mechanisms": "Amygdala-PFC regulation via safety exposure and co-regulation. Vagal tone improvement supports downregulation of false alarms. Epigenetic adaptation of stress reactivity (e.g., FKBP5, CRH) linked to early-life threat exposure.",
+    "recommended_interventions": "Safe social contact, rhythmic sensory input (music, movement), eye contact with trusted others, vagus nerve stimulation practices, trauma-informed therapy",
+    "metaphoric_summary": "A smoke detector that\u2019s too sensitive\u2014calmed by repeated signals that the fire is out.",
+    "key_neurotransmitters": "Cortisol, norepinephrine, oxytocin",
+    "cognitive_functions": "Subconscious threat detection, autonomic priming, emotional salience attribution",
+    "common_misdiagnoses": "PTSD, Social Anxiety, Panic Disorder"
+  },
+  {
+    "circuit": "Touch & Tactile Affect Regulation",
+    "functional_description": "This circuit includes the somatosensory cortex, insula, c-tactile (CT) afferents, and limbic regions like the amygdala and hypothalamus. It processes affective touch for emotional bonding, stress reduction, and safety signaling.",
+    "traits_influenced": "Emotional comfort, trust formation, body-based co-regulation, sensory pleasure, boundary awareness",
+    "symptoms": [
+      "Touch aversion",
+      "emotional detachment",
+      "hypersensitivity to contact",
+      "boundary confusion",
+      "lack of physical comfort"
+    ],
+    "example_user_statements": [
+      "\u201cI hate being touched, even by people I care about.\u201d",
+      "\u201cPhysical affection makes me anxious.\u201d",
+      "\u201cI feel numb unless I\u2019m overwhelmed.\u201d"
+    ],
+    "social_environmental_causes": "Touch deprivation, trauma involving physical contact, emotional coldness, invalidated bodily boundaries",
+    "plasticity_mechanisms": "Plasticity of CT afferent pathways and somatosensory-limbic connectivity enhanced by consensual nurturing touch and safe contact exposure. Epigenetic modulation of oxytocin signaling and sensory-limbic interface supports recovery.",
+    "recommended_interventions": "Therapeutic touch (e.g. massage, weighted blankets), safe physical closeness, boundary-informed touch exposure, affective somatic practices",
+    "metaphoric_summary": "An emotional skin callused by fear\u2014softened again through trust and gentle presence.",
+    "key_neurotransmitters": "Oxytocin, serotonin, endorphins",
+    "cognitive_functions": "Affective sensation decoding, boundary mapping, interpersonal safety detection, tactile emotional integration",
+    "common_misdiagnoses": "Sensory Processing Disorder, PTSD (touch triggers), Attachment Disorders"
+  },
+  {
+    "circuit": "Visual-Spatial Processing & Environmental Mapping",
+    "functional_description": "This circuit involves the parietal lobe, occipital cortex, hippocampus, and dorsal visual stream. It enables orientation, depth perception, object localization, and spatial memory crucial for environmental awareness and bodily navigation.",
+    "traits_influenced": "Spatial reasoning, body coordination, visual attention, directional memory, situational orientation",
+    "symptoms": [
+      "Disorientation",
+      "difficulty navigating",
+      "poor depth perception",
+      "clumsiness",
+      "visual tracking issues"
+    ],
+    "example_user_statements": [
+      "\u201cI get lost easily.\u201d",
+      "\u201cI'm bad with directions or distances.\u201d",
+      "\u201cMy eyes can\u2019t track things well when I move.\u201d"
+    ],
+    "social_environmental_causes": "Overreliance on verbal instruction, underexposure to physical exploration, trauma-related dissociation from space or environment",
+    "plasticity_mechanisms": "Experience-driven growth of dorsal stream networks; neurogenesis and long-term potentiation in hippocampus enhanced by physical exploration, 3D engagement, and sensorimotor integration. Epigenetic regulation of neurodevelopmental pathways linked to visuospatial capacity.",
+    "recommended_interventions": "Exploratory movement, spatial puzzles, 3D art or design tasks, proprioceptive engagement, virtual or physical navigation games",
+    "metaphoric_summary": "An internal map missing pages\u2014redrawn through movement, space, and sight.",
+    "key_neurotransmitters": "Glutamate, acetylcholine, BDNF",
+    "cognitive_functions": "Spatial memory, visual tracking, environmental awareness, motion processing",
+    "common_misdiagnoses": "Nonverbal Learning Disorder, Dyspraxia, Visual Processing Disorder"
+  },
+  {
+    "circuit": "Vocal Expression & Social Communication",
+    "functional_description": "This circuit includes Broca\u2019s area, motor cortex, brainstem nuclei, insula, and limbic input from the amygdala and anterior cingulate. It coordinates tone, pitch, timing, and affective content of vocal output used in relational signaling and self-expression.",
+    "traits_influenced": "Expressiveness, prosody, relational signaling, voice tone, verbal timing",
+    "symptoms": [
+      "Monotone voice",
+      "poor emotional expression through speech",
+      "delayed or muted responses",
+      "flat affect",
+      "misinterpreted intentions"
+    ],
+    "example_user_statements": [
+      "\u201cPeople say I sound robotic or flat.\u201d",
+      "\u201cI don\u2019t know how to show emotion in my voice.\u201d",
+      "\u201cI shut down when I try to speak.\u201d"
+    ],
+    "social_environmental_causes": "Emotionally suppressed environments, ridicule during expression, social anxiety, neurodevelopmental modulation of prosody",
+    "plasticity_mechanisms": "Experience-dependent tuning of motor-vocal-emotional integration via feedback, vocal modeling, and emotional mirroring. Epigenetic regulation of emotional vocalization circuits through safe relational engagement.",
+    "recommended_interventions": "Prosody modeling, vocal tone practice in safe spaces, singing, breath-to-speech integration, expressive dialogue exercises",
+    "metaphoric_summary": "A musical instrument muted by fear\u2014tuned again through safety and voice freedom.",
+    "key_neurotransmitters": "Dopamine, oxytocin, acetylcholine",
+    "cognitive_functions": "Speech timing, affective prosody encoding, social cue expression, vocal-motor sequencing",
+    "common_misdiagnoses": "Autism Spectrum Disorder, Selective Mutism, Social Anxiety Disorder"
+  },
+  {
+    "circuit": NaN,
+    "functional_description": "nan",
+    "traits_influenced": "nan",
+    "symptoms": [
+      "nan"
+    ],
+    "example_user_statements": [
+      "\u201cI get overwhelmed by loud sounds or bright lights.\u201d",
+      "\u201cI don\u2019t notice things others do.\u201d",
+      "\u201cCertain sensations make me uncomfortable or shut down.\u201d"
+    ],
+    "social_environmental_causes": "nan",
+    "plasticity_mechanisms": "nan",
+    "recommended_interventions": "nan",
+    "metaphoric_summary": "nan",
+    "key_neurotransmitters": "Glutamate, GABA, serotonin",
+    "cognitive_functions": "Sensory integration, perceptual filtering, salience mapping",
+    "common_misdiagnoses": "Autism Spectrum Disorder, Sensory Processing Disorder, Anxiety Disorders"
+  }
+]

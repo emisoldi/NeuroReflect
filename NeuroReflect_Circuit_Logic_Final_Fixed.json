@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Fear & Stress Response",
+    "symptoms_of_dysregulation": [
+      "anxiety",
+      "fear",
+      "stress",
+      "negative"
+    ],
+    "traits_influenced": [
+      "Hero",
+      "Explorer"
+    ],
+    "metaphoric_summary": "You're experiencing stress or fear. Let's pause and regain control gently."
+  },
+  {
+    "name": "Play & Social Joy Circuit",
+    "symptoms_of_dysregulation": [
+      "joy",
+      "happiness",
+      "positive"
+    ],
+    "traits_influenced": [
+      "Creator",
+      "Healer"
+    ],
+    "metaphoric_summary": "Wonderful! You're tapped into joyful, creative energy."
+  },
+  {
+    "name": "Default Mode Network (Self-Referential Thought & Internal Narrative)",
+    "symptoms_of_dysregulation": [
+      "neutral",
+      "reflection",
+      "introspection"
+    ],
+    "traits_influenced": [
+      "Mentor"
+    ],
+    "metaphoric_summary": "You're reflective and introspective\u2014let's explore this deeper."
+  },
+  {
+    "name": "Flow & Focus Circuit",
+    "symptoms_of_dysregulation": [
+      "clarity",
+      "focus",
+      "positive"
+    ],
+    "traits_influenced": [
+      "Mentor",
+      "Explorer"
+    ],
+    "metaphoric_summary": "Excellent clarity and focus! Continue moving forward confidently."
+  },
+  {
+    "name": "Calm & Tranquility Circuit",
+    "symptoms_of_dysregulation": [
+      "calmness",
+      "peace",
+      "neutral"
+    ],
+    "traits_influenced": [
+      "Healer",
+      "Mentor"
+    ],
+    "metaphoric_summary": "You're experiencing a balanced, calm state. Let's maintain this tranquility."
+  }
+]
